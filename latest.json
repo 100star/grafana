@@ -1,4 +1,4 @@
 {
-	"version": "1.9.0",
-	"url": "http://grafanarel.s3.amazonaws.com/grafana-1.9.0.tar.gz"
+  "stable": "5.3.4",
+  "testing": "5.3.4"
 }
